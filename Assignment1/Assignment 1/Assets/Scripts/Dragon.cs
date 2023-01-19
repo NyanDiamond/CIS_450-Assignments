@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 /*
  * Josh Bonovich
+ * Dragon
  * Assignment 1
  * This class implements the Creature abstract class as well as both the enemy and canfly interfaces for a dragon
  */

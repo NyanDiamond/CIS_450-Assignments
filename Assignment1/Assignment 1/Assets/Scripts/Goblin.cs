@@ -4,6 +4,7 @@ using UnityEngine;
 
 /*
  * Josh Bonovich
+ * Goblin
  * Assignment 1
  * This class implements the creature abstract class and the enemy interface for the goblin
  */

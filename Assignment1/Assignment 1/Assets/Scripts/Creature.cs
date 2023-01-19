@@ -4,6 +4,7 @@ using UnityEngine;
 
 /*
  * Josh Bonovich
+ * Creature
  * Assignment 1
  * This abstract class if for every creature in the game
  */

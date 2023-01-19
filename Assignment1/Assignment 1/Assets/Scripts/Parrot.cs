@@ -4,6 +4,7 @@ using UnityEngine;
 
 /*
  * Josh Bonovich
+ * Parrot
  * Assignment 1
  * This class implements the creature abstract class and the CanFly interface for a parrot
  */

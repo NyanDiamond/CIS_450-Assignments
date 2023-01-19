@@ -4,6 +4,7 @@ using UnityEngine;
 
 /*
  * Josh Bonovich
+ * Enemy
  * Assignment 1
  * This interface is for creatures that are enemies
  */

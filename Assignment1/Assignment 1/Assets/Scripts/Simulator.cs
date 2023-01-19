@@ -2,6 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Josh Bonovich
+ * Simlulator
+ * Assignment 1
+ * This class simulates all of the concrete classes using polymorphic lists
+ */
 public class Simulator : MonoBehaviour
 {
     List<Creature> creatures;
