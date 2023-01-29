@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Josh Bonovich
+//Assignment 2
+//This script is the abstract class all inventory items defer to
 public abstract class InventoryItem : MonoBehaviour
 {
     protected Usable useType;
@@ -12,18 +15,19 @@ public abstract class InventoryItem : MonoBehaviour
 
     private void OnMouseDown()
     {
-        if(stack>0)
-        {
-            useType.Use(value);
-            stack--;
-            stackText.text = stack.ToString();
-        }
+        FindObjectOfType<InventorySimulator>().Selection(this.gameObject, value, useType);
     }
 
     public void IncreaseStack()
     {
         stack++;
         stackText.text = stack.ToString();
+    }
+
+    public void Used()
+    {
+            stack--;
+            stackText.text = stack.ToString();
     }
 
     protected abstract void Display();
