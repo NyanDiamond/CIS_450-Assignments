@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 79c81795e37f868479026ac938f50d68
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 246
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3886835, y: 0.08861177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5017788606b3be48b27357517f543a8
+      internalID: 1783701027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 246
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.509462, y: 0.08400121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2904f6da8bc37714eaa023d57c2c666d
+      internalID: -44920333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 246
+        width: 25
+        height: 37
+      alignment: 9
+      pivot: {x: 0.509462, y: 0.052476212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07294b3c9e42e084198a0988456cd79e
+      internalID: -1934680880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 246
+        width: 25
+        height: 37
+      alignment: 9
+      pivot: {x: 0.51892364, y: 0.06526267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54196450f6d70ec4d87a072b9a4514d8
+      internalID: 1914708342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_18: -1398867750
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_38: 1661855343
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_31: -859107378
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_53: -55585570
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_54: 1306770834
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_39: 1552750743
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_28: 678864888
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_60: 982059086
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_5: 1561666823
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_25: -801963665
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_1: -44920333
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_41: 293975119
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_22: 1091233094
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_11: 873085065
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_40: 2140987249
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_59: -529771613
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_6: 1984828237
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_12: 1428609744
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_16: 1806683961
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_24: 1169016115
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_10: -939276414
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_44: 925616821
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_57: -112926082
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_8: -1330275470
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_56: 1948151345
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_37: 1437229931
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_48: 1685600931
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_49: -1914767176
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_3: 1914708342
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_30: 209187042
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_36: -1749010106
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_4: 1932998800
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_35: 1967596991
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_23: 678194125
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_45: 1262622253
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_20: -1299461549
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_21: 1751576874
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_14: -427300473
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_50: 1711688334
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_9: -1139366362
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_15: -1208662772
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_33: 1316741085
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_7: -199782752
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_46: -848680256
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_42: -1307030348
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_32: 1283211862
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_19: -424232013
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_58: 872504608
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_27: -1898126535
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_43: -606903561
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_51: 221232945
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_13: 968670773
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_29: 515404683
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_0: 1783701027
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_34: 1920222634
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_26: 299619376
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_17: 1201358128
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_52: -53487500
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_55: 458855969
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_2: -1934680880
+      d5x2p86-f77a7c52-e475-461f-af2a-9b41a8604567-PhotoRoom_47: 1685396259
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
